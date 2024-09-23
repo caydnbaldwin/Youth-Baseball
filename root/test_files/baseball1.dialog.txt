@@ -1,0 +1,34 @@
+Enter player name: <<Babe Ruth>>
+Enter player age: <<10>>
+Enter player name: <<Ty Cobb>>
+Enter player age: <<7>>
+Enter player name: <<Jennie Finch>>
+Enter player age: <<17>>
+Enter player name: <<Barry Bonds>>
+Enter player age: <<15>>
+Enter player name: <<Natasha Watley>>
+Enter player age: <<8>>
+Enter player name: <<Ted Williams>>
+Enter player age: <<3>>
+Enter player name: <<Shohei Ohtani>>
+Enter player age: <<6>>
+Enter player name: <<>>
+Team Bigs
+Total members: ``2;big-total;5``
+Average age: ``16;big-avg;10``
+Youngest age: ``15;big-youngest;10``
+Oldest age: ``17;big-oldest;10``
+Members``
+ - Jennie Finch 17
+ - Barry Bonds 15;big-members-list;10``
+Team Littles
+Total members: ``5;little-total;5``
+Average age: ``7;little-avg;10``
+Youngest age: ``3;little-youngest;10``
+Oldest age: ``10;little-oldest;10``
+Members``
+ - Babe Ruth 10
+ - Ty Cobb 7
+ - Natasha Watley 8
+ - Ted Williams 3
+ - Shohei Ohtani 6;little-members-list;10``
